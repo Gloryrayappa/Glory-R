@@ -142,20 +142,7 @@
 
 ---
 
-## 📈 GitHub Analytics
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gloryrayappa&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&bg_color=1a1b27" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloryrayappa&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=C9D1D9&bg_color=1a1b27" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=gloryrayappa&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## 📊 Contribution Activity
 
