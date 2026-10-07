@@ -1,7 +1,7 @@
 <!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=240&section=header&text=Glory&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20%7C%20Aspiring%20AI%20Engineer&descSize=22&descAlignY=60&animation=fadeIn" width="100%" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=240&section=header&text=Glory R&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20%7C%20Aspiring%20AI%20Engineer&descSize=22&descAlignY=60&animation=fadeIn" width="100%" alt="header banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+intelligent+products+with+AI;Turning+ideas+into+working+AI-powered+apps" alt="Typing SVG" />
